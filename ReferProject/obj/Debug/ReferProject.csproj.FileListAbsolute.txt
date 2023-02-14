@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\bin\Debug\ReferProject.exe.config
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\bin\Debug\ReferProject.exe
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\bin\Debug\ReferProject.pdb
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\obj\Debug\ReferProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\obj\Debug\ReferProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\obj\Debug\ReferProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\obj\Debug\ReferProject.exe
+C:\Users\USER\Desktop\CELassighnment1\MobilePhone\ReferProject\obj\Debug\ReferProject.pdb

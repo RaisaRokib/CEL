@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08e10e2b-15c1-4712-9345-e36308006fa3": {
+      "ProjectGuid": "08e10e2b-15c1-4712-9345-e36308006fa3",
+      "DisplayName": "MobilePhone",
+      "ColorIndex": 0
+    },
+    "9e7f9ac0-b733-4eeb-a867-da721b317de2": {
+      "ProjectGuid": "9e7f9ac0-b733-4eeb-a867-da721b317de2",
+      "DisplayName": "ReferProject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
